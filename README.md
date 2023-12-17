@@ -56,6 +56,11 @@
             <td><img src="https://languages.abranhe.com/languages/csharp.png" alt="csharp" width="24" height="24"></td>
         </tr>
         <tr>
+            <td><strong><a href="https://github.com/Eisenhuth/Finalist/">Finalist</a></strong></td>
+            <td>A SwiftUI App to view Leaderboards for THE FINALS</td>
+            <td><img src="https://languages.abranhe.com/languages/swift.png" alt="swift" width="24" height="24"></td>
+        </tr>
+        <tr>
             <td><strong><a href="https://github.com/Eisenhuth/YASU/">YASU</a></strong></td>
             <td>how do Swift Packages work anyway?</td>
             <td><img src="https://languages.abranhe.com/languages/swift.png" alt="swift" width="24" height="24"></td>

@@ -66,6 +66,11 @@
             <td><img src="https://languages.abranhe.com/languages/swift.png" alt="swift" width="24" height="24"></td>
         </tr>
         <tr>
+            <td><strong><a href="https://github.com/Eisenhuth/Holtow/">Holtow</a></strong></td>
+            <td>repo containing previous and current leaderboards as json</td>
+            <td><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="swift" width="24" height="24"></td>
+        </tr>
+        <tr>
             <td><strong><a href="https://github.com/Eisenhuth/YASU/">YASU</a></strong></td>
             <td>how do Swift Packages work anyway?</td>
             <td><img src="https://languages.abranhe.com/languages/swift.png" alt="swift" width="24" height="24"></td>

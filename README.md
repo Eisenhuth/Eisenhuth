@@ -61,7 +61,7 @@
         </tr>
          <tr>
             <td><strong><a href="https://github.com/Eisenhuth/Ospuze/">Ospuze</a></strong></td>
-            <td>"Pop. Pour. Perform." - a Swift Package</td>
+            <td>"Pop. Pour. Perform." - a <a href="https://swiftpackageindex.com/Eisenhuth/Ospuze/">Swift Package</a></td>
             <td><img src="https://languages.abranhe.com/languages/swift.png" alt="swift" width="24" height="24">&emsp;<a href="https://swiftpackageindex.com/Eisenhuth/Ospuze/master/documentation/ospuze"><img src="https://img.shields.io/badge/DocC-docs-orange" alt="documentation"></a></td>
         </tr>
         <tr>

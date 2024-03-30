@@ -48,6 +48,11 @@
             <td>a tool to see who spends the most money per market</td>
             <td><img src="https://languages.abranhe.com/languages/swift.png" alt="swift" width="24" height="24"></td>
         </tr>
+         <tr>
+            <td><strong><a href="https://github.com/Eisenhuth/SaleSleuth/">SaleSleuth</a></strong></td>
+            <td>a tool to check what items retainers are selling</td>
+            <td><img src="https://languages.abranhe.com/languages/swift.png" alt="swift" width="24" height="24"></td>
+        </tr>
     </tbody>
 </table>
 

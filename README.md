@@ -62,8 +62,8 @@
          <tr>
             <td><strong><a href="https://github.com/Eisenhuth/Finalist/">Finalist</a></strong></td>
             <td>A SwiftUI App to view Leaderboards for THE FINALS</td>
-            <td><img src="https://languages.abranhe.com/languages/swift.png" alt="swift" width="24" height="24"></td>
-        </tr>
+            <td><img src="https://languages.abranhe.com/languages/swift.png" alt="swift" width="24" height="24">&emsp;<a href="https://apps.apple.com/us/app/finalist/id6502301145?itsct=apps_box_badge&amp;itscg=30200"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="120" height="40"></a></td>
+            </tr>
          <tr>
             <td><strong><a href="https://github.com/Eisenhuth/Ospuze/">Ospuze</a></strong></td>
             <td>"Pop. Pour. Perform." - a <a href="https://swiftpackageindex.com/Eisenhuth/Ospuze/">Swift Package</a></td>

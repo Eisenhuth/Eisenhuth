@@ -36,7 +36,7 @@
         <tr>
             <td><strong><a href="https://github.com/Eisenhuth/xivapi-swift/">xivapi-swift</a></strong></td>
             <td>a <a href="https://swiftpackageindex.com/Eisenhuth/xivapi-swift">Swift Package</a> to easily work with <a href="https://xivapi.com/">xivapi</a></td>
-            <td><img src="https://languages.abranhe.com/languages/swift.png" alt="swift" width="24" height="24">&emsp;<a href="https://swiftpackageindex.com/eisenhuth/xivapi-swift/v0.1.0/documentation/xivapi_swift/xivapiclient"><img src="https://img.shields.io/badge/DocC-docs-orange" alt="documentation"></a></td>
+            <td><img src="https://languages.abranhe.com/languages/swift.png" alt="swift" width="24" height="24">&emsp;<a href="https://swiftpackageindex.com/eisenhuth/xivapi-swift/master/documentation/xivapi_swift/xivapiclient"><img src="https://img.shields.io/badge/DocC-docs-orange" alt="documentation"></a></td>
         </tr>
         <tr>
             <td><strong><a href="https://github.com/Eisenhuth/Darnus/">Darnus</a></strong></td>

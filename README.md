@@ -4,6 +4,11 @@
 <table>
     <tbody>
         <tr>
+        <td><strong><a href="https://apps.apple.com/us/app/aetheryte/id6503628105">Aetheryte</a></strong></td>
+        <td>An FFXIV Companion App</td>
+        <td><img src="https://languages.abranhe.com/languages/swift.png" alt="swift" width="24" height="24">&emsp;<a href="https://apps.apple.com/us/app/aetheryte/id6503628105?itsct=apps_box_badge&amp;itscg=30200"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="120" height="40"></a></td>
+        </tr>
+        <tr>
             <td><strong><a href="https://github.com/Eisenhuth/TrustworthyDalamudPlugins/">TrustworthyDalamudPlugins</a></strong></td>
             <td>collection of my <a href="https://github.com/goatcorp/Dalamud">Dalamud</a> Plugins, using Go for CI</td>
             <td><img src="https://languages.abranhe.com/languages/go.png" alt="go" width="24" height="24"></td>

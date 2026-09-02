@@ -9,9 +9,14 @@
         <td><img src="https://languages.abranhe.com/languages/swift.png" alt="swift" width="24" height="24">&emsp;<a href="https://apps.apple.com/us/app/aetheryte/id6503628105?itsct=apps_box_badge&amp;itscg=30200"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="120" height="40"></a></td>
         </tr>
         <tr>
-            <td><strong><a href="https://github.com/Eisenhuth/TrustworthyDalamudPlugins/">TrustworthyDalamudPlugins</a></strong></td>
-            <td>collection of my <a href="https://github.com/goatcorp/Dalamud">Dalamud</a> Plugins, using Go for CI</td>
-            <td><img src="https://languages.abranhe.com/languages/go.png" alt="go" width="24" height="24"></td>
+            <td><strong><a href="https://github.com/Eisenhuth/xivapi-swift/">xivapi-swift</a></strong></td>
+            <td>a <a href="https://swiftpackageindex.com/Eisenhuth/xivapi-swift">Swift Package</a> to easily work with <a href="https://xivapi.com/">xivapi</a></td>
+            <td><img src="https://languages.abranhe.com/languages/swift.png" alt="swift" width="24" height="24">&emsp;<a href="https://swiftpackageindex.com/eisenhuth/xivapi-swift/master/documentation/xivapi_swift/xivapiclient"><img src="https://img.shields.io/badge/DocC-docs-orange" alt="documentation"></a></td>
+        </tr>
+        <tr>
+            <td><strong><a href="https://github.com/Eisenhuth/universalis-swift/">universalis-swift</a></strong></td>
+            <td>a <a href="https://swiftpackageindex.com/Eisenhuth/universalis-swift">Swift Package</a> to easily work with the <a href="https://universalis.app/">Universalis</a> API</td>
+            <td><img src="https://languages.abranhe.com/languages/swift.png" alt="swift" width="24" height="24">&emsp;<a href="https://swiftpackageindex.com/eisenhuth/universalis-swift/master/documentation/universalis_swift/universalisclient"><img src="https://img.shields.io/badge/DocC-docs-orange" alt="documentation"></a></td>
         </tr>
         <tr>
             <td><strong><a href="https://github.com/Eisenhuth/dalamud-nael/">dalamud-nael</a></strong></td>
@@ -32,21 +37,6 @@
             <td><strong><a href="https://github.com/Eisenhuth/dalamud-restart/">dalamud-restart</a></strong> (archived)</td>
             <td>restarts the game, skipping the launcher</td>
             <td><img src="https://languages.abranhe.com/languages/csharp.png" alt="csharp" width="24" height="24">&emsp;<img src="https://img.shields.io/github/downloads/Eisenhuth/dalamud-restart/total" alt="total downloads"></td>
-        </tr>
-        <tr>
-            <td><strong><a href="https://github.com/Eisenhuth/universalis-swift/">universalis-swift</a></strong></td>
-            <td>a <a href="https://swiftpackageindex.com/Eisenhuth/universalis-swift">Swift Package</a> to easily work with the <a href="https://universalis.app/">Universalis</a> API</td>
-            <td><img src="https://languages.abranhe.com/languages/swift.png" alt="swift" width="24" height="24">&emsp;<a href="https://swiftpackageindex.com/eisenhuth/universalis-swift/master/documentation/universalis_swift/universalisclient"><img src="https://img.shields.io/badge/DocC-docs-orange" alt="documentation"></a></td>
-        </tr>
-        <tr>
-            <td><strong><a href="https://github.com/Eisenhuth/xivapi-swift/">xivapi-swift</a></strong></td>
-            <td>a <a href="https://swiftpackageindex.com/Eisenhuth/xivapi-swift">Swift Package</a> to easily work with <a href="https://xivapi.com/">xivapi</a></td>
-            <td><img src="https://languages.abranhe.com/languages/swift.png" alt="swift" width="24" height="24">&emsp;<a href="https://swiftpackageindex.com/eisenhuth/xivapi-swift/master/documentation/xivapi_swift/xivapiclient"><img src="https://img.shields.io/badge/DocC-docs-orange" alt="documentation"></a></td>
-        </tr>
-        <tr>
-            <td><strong><a href="https://github.com/Eisenhuth/Darnus/">Darnus</a></strong></td>
-            <td>generating/checking quotes for <a href="https://github.com/Eisenhuth/dalamud-nael/">dalamud-nael</a></td>
-            <td><img src="https://languages.abranhe.com/languages/swift.png" alt="swift" width="24" height="24"></td>
         </tr>
         <tr>
             <td><strong><a href="https://github.com/Eisenhuth/BigSpender/">BigSpender</a></strong></td>
@@ -90,21 +80,6 @@
             <td><strong><a href="https://github.com/Eisenhuth/unity-appgroups/">unity-appgroups</a></strong></td>
             <td>a Unity Package (C#) that makes it easy to use iOS AppGroups (ObjC)</td>
             <td><img src="https://languages.abranhe.com/languages/csharp.png" alt="csharp" width="24" height="24"></td>
-        </tr>
-        <tr>
-            <td><strong><a href="https://github.com/Eisenhuth/YASU/">YASU</a></strong></td>
-            <td>how do Swift Packages work anyway?</td>
-            <td><img src="https://languages.abranhe.com/languages/swift.png" alt="swift" width="24" height="24"></td>
-        </tr>
-        <tr>
-            <td><strong><a href="https://github.com/Eisenhuth/MemeToggle/">MemeToggle</a></strong></td>
-            <td>how difficult could this possibly be?</td>
-            <td><img src="https://languages.abranhe.com/languages/swift.png" alt="swift" width="24" height="24"></td>
-        </tr>
-        <tr>
-            <td><strong><a href="https://github.com/Eisenhuth/VisionSandbox/">VisionSandbox</a></strong></td>
-            <td>how does visionOS work anyway?</td>
-            <td><img src="https://languages.abranhe.com/languages/swift.png" alt="swift" width="24" height="24"></td>
         </tr>
     </tbody>
 </table>
